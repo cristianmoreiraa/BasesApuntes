@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<peliculas>
+  <pelicula codigo ="1">
+    <titulo>Colossal  </titulo>
+    <director> Nacho Vigalondo         </director>
+    <actores>               
+	  <actor>
+	    <nombre> Anne       </nombre>
+	    <apellido> Hathaway     </apellido>
+	  </actor>
+	  <actor>
+	    <nombre>Jason      </nombre>
+	    <apellido> Sudeikis  </apellido>
+       </actor>
+	</actores>
+	<año>2017</año>
+	  </pelicula>
+ 	 
+ <pelicula codigo ="2">
+ <titulo> Tenemos que hablar </titulo>
+    <director> David Serrano        </director>
+    <actores>               
+	  <actor>
+	    <nombre> Michelle     </nombre>
+	    <apellido> Jenner   </apellido>
+	  </actor>
+	  <actor>
+	    <nombre> Hugo    </nombre>
+	    <apellido> Silva   </apellido>
+       </actor>
+                   <actor>
+	    <nombre> Belén   </nombre>
+	    <apellido> Cuesta  </apellido>
+       </actor>
+	</actores>
+	<año>2016</año>
+	 
+  </pelicula>
+<pelicula codigo ="3">
+ <titulo> La punta del iceberg </titulo>
+    <director>  David Cánovas      </director>
+    <actores>               
+	  <actor>
+	    <nombre> Maribel   </nombre>
+	    <apellido>  Verdú   </apellido>
+	  </actor>
+	  <actor>
+	    <nombre> Fernando   </nombre>
+	    <apellido> Cayo</apellido>
+       </actor>
+                   <actor>
+	    <nombre> Bárbara   </nombre>
+	    <apellido> Goenaga  </apellido>
+       </actor>
+               <actor>
+	    <nombre> Álex   </nombre>
+	    <apellido> García  </apellido>
+       </actor>
+	</actores>
+	<año>2018</año>
+	   </pelicula>
+ 
+</peliculas>
